@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**SondaMalang/SondaMalang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi! I'm Musonda 👩‍💻✨, an aspiring tech enthusiast diving into the exciting world of robotics, networking, and cybersecurity. 🚀  
+I’m passionate about building innovative solutions and exploring cutting-edge technologies. 🌟
 
-Here are some ideas to get you started:
+## What I'm Currently Doing
+- 🌱 **Learning**: Python for robotics, networking, and cybersecurity.  
+- 💼 **Working on**: Projects in these areas to enhance my skills and solve real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+- **Programming Languages**: Python, Java, CSS, PHP.  
+- **Technologies**: Networking protocols, robotics frameworks, cybersecurity tools.  
+- **Other Skills**: Problem-solving, automation, and system troubleshooting.  
+
+## My Goals
+- 🔐 Gain proficiency in ethical hacking and cybersecurity practices.  
+- 🤖 Develop impactful robotics projects that can make a difference.  
+
+## Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/musonda-malangisha)  
