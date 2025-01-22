@@ -5,7 +5,7 @@ Hi! I'm Musonda 👩‍💻✨, an aspiring tech enthusiast diving into the exci
 I’m passionate about building innovative solutions and exploring cutting-edge technologies. 🌟
 
 ## What I'm Currently Doing
-- 🌱 **Learning**: Python for robotics, networking, and cybersecurity.  
+- 🌱 **Learning**: Python implementation for robotics, networking, and cybersecurity.  
 - 💼 **Working on**: Projects in these areas to enhance my skills and solve real-world challenges.
 
 ## Skills & Tools
