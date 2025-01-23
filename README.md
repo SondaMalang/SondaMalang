@@ -15,7 +15,7 @@ I’m passionate about building innovative solutions and exploring cutting-edge 
 
 ## My Goals
 - 🔐 Gain proficiency in ethical hacking and cybersecurity practices.  
-- 🤖 Develop impactful robotics projects that can make a difference.  
+- 🤖 Learn how to develop impactful robotics projects that can make a difference.  
 
 ## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/musonda-malangisha)  
