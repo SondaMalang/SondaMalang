@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hi! I'm Musonda 👩‍💻✨, an aspiring tech enthusiast diving into the exciting world of robotics, networking, and cybersecurity. 🚀  
+Hi! I'm Musonda 👩‍💻✨, a tech enthusiast diving into the exciting world of robotics, networking, and cybersecurity. 🚀  
 I’m passionate about building innovative solutions and exploring cutting-edge technologies. 🌟
 
 ## What I'm Currently Doing
@@ -9,7 +9,7 @@ I’m passionate about building innovative solutions and exploring cutting-edge 
 - 💼 **Working on**: Projects in these areas to enhance my skills and solve real-world challenges.
 
 ## Skills & Tools
-- **Programming Languages**: Python, Java, CSS, PHP.  
+- **Programming Languages**: Python, Java, CSS, PHP, HTML.  
 - **Technologies**: Networking protocols, robotics frameworks, cybersecurity tools.  
 - **Other Skills**: Problem-solving, automation, and system troubleshooting.  
 
