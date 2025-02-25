@@ -9,7 +9,7 @@ I’m passionate about building innovative solutions and exploring cutting-edge 
 - 💼 **Working on**: Projects in these areas to enhance my skills and solve real-world challenges.
 
 ## Skills & Tools
-- **Programming Languages**: Python, Java, CSS, PHP, HTML.  
+- **Programming Languages**: Python, CSS, PHP, HTML.  
 - **Technologies**: Networking protocols, robotics frameworks, cybersecurity tools.  
 - **Other Skills**: Problem-solving, automation, and system troubleshooting.  
 
