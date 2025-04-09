@@ -1,21 +1,36 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Welcome to My GitHub Profile!
 
-## About Me
-Hi! I'm Musonda 👩‍💻✨, a tech enthusiast diving into the exciting world of robotics, networking, and cybersecurity. 🚀  
-I’m passionate about building innovative solutions and exploring cutting-edge technologies. 🌟
+## 👩‍💻 About Me
+Hi, I'm **Musonda** — a tech enthusiast diving deep into the world of **cybersecurity**, **networking**, and **Python automation**.  
+I'm passionate about building hands-on skills, exploring industry tools, and solving real-world security challenges. 🚀
 
-## What I'm Currently Doing
-- 🌱 **Learning**: Python implementation for robotics, networking, and cybersecurity.  
-- 💼 **Working on**: Projects in these areas to enhance my skills and solve real-world challenges.
+---
 
-## Skills & Tools
-- **Programming Languages**: Python, CSS, PHP, HTML.  
-- **Technologies**: Networking protocols, robotics frameworks, cybersecurity tools.  
-- **Other Skills**: Problem-solving, automation, and system troubleshooting.  
+## 🌱 What I'm Currently Doing
+- 📚 **Learning**: Linux (CLI & security), Networking (CCNA-level), and Python scripting  
+- 🔐 **Exploring**: Ethical hacking, threat detection, and security automation  
+- 💻 **Building**: Lab-based projects and a growing GitHub portfolio
 
-## My Goals
-- 🔐 Gain proficiency in ethical hacking and cybersecurity practices.  
-- 🤖 Learn how to develop impactful robotics projects that can make a difference.  
+---
 
-## Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/musonda-malangisha)  
+## 🛠️ Skills & Tools
+- **Languages**: Python, HTML, CSS, PHP  
+- **Cybersecurity**: Linux CLI, Metasploit, Wireshark  
+- **Networking**: Subnetting, VLANs, NAT, Cisco Packet Tracer  
+- **Automation**: Bash scripts, Python for SSH/log analysis/firewall configs  
+- **Tools**: Git, IntelliJ IDEA, VirtualBox, Proxmox, TryHackMe
+
+---
+
+## 🎯 Current Goals
+- 🧠 Build job-ready cybersecurity skills through hands-on labs  
+- 📜 Earn industry-recognized certifications (Cisco, Fortinet, Microsoft, Splunk)  
+- 💼 Create a strong GitHub portfolio with scripts, notes, and lab walkthroughs  
+- 🚀 Land a cybersecurity internship or entry-level role
+
+---
+
+## 📬 Connect with Me
+- 💼 [LinkedIn – Musonda Malangisha](https://www.linkedin.com/in/musonda-malangisha)
+
+Thanks for visiting — feel free to explore my repos and follow my journey! 🔐✨
