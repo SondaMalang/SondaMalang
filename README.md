@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 Hi, I'm **Musonda** — a tech enthusiast diving deep into the world of **cybersecurity**, **networking**, and **Python automation**.  
-I'm passionate about building hands-on skills, exploring industry tools, and solving real-world security challenges. 🚀
+I'm passionate about building hands-on skills, exploring industry tools, and solving real-world challenges. 🚀
 
 ---
 
@@ -23,10 +23,9 @@ I'm passionate about building hands-on skills, exploring industry tools, and sol
 ---
 
 ## 🎯 Current Goals
-- 🧠 Build job-ready cybersecurity skills through hands-on labs  
+- 🧠 Build cybersecurity skills through hands-on labs  
 - 📜 Earn industry-recognized certifications (Cisco, Fortinet, Microsoft, Splunk)  
 - 💼 Create a strong GitHub portfolio with scripts, notes, and lab walkthroughs  
-- 🚀 Land a cybersecurity internship or entry-level role
 
 ---
 
