@@ -1,35 +1,22 @@
-# 👋 Welcome to My GitHub Profile!
+# Hi, I'm Musonda 👋  
 
-## 👩‍💻 About Me
-Hi, I'm **Musonda** — a tech enthusiast diving deep into the world of **cybersecurity**, **networking**, and **Python automation**.  
-I'm passionate about building hands-on skills, exploring industry tools, and solving real-world challenges. 🚀
+🎓 Computer Engineering student | Python Developer | QA & Automation | AI Enthusiast | Cybersecurity Learner  
 
----
+🚀 I build and test software that is **reliable, scalable, and secure**.  
+🔧 Experienced in **Python backend development, automation testing, SQL databases, and AI-driven tools**.  
+🛡️ Interested in **cybersecurity practices** and building robust systems.  
 
-## 🌱 What I'm Currently Doing
-- 📚 **Learning**: Linux (CLI & security), Networking (CCNA-level), and Python scripting  
-- 🔐 **Exploring**: Ethical hacking, threat detection, and security automation  
-- 💻 **Building**: Lab-based projects and a growing GitHub portfolio
+### 🌟 What I Do
+- **Python Development:** Backend logic, automation scripts, API integration 
+- **AI & Automation:** Built tools that cut costs by replacing manual workflows  
+- **QA & Testing:** Regression, integration, unit testing (PyTest), CI/CD exposure  
+- **Cyber & Systems:** Basic web security, Linux environments, shell scripting  
 
----
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, PHP, HTML, Bash  
+- **Frameworks/Tools:** PyTest, Pandas, Git/GitHub, Azure DevOps, Docker, AWS 
+- **Domains:** Backend Development, Test Automation, AI-driven workflows, Cybersecurity basics  
 
-## 🛠️ Skills & Tools
-- **Languages**: Python, HTML, CSS, PHP  
-- **Cybersecurity**: Linux CLI, Metasploit, Wireshark  
-- **Networking**: Subnetting, VLANs, NAT, Cisco Packet Tracer  
-- **Automation**: Bash scripts, Python for SSH/log analysis/firewall configs  
-- **Tools**: Git, IntelliJ IDEA, VirtualBox, Proxmox, TryHackMe
-
----
-
-## 🎯 Current Goals
-- 🧠 Build cybersecurity skills through hands-on labs  
-- 📜 Earn industry-recognized certifications (Cisco, Fortinet, Microsoft, Splunk)  
-- 💼 Create a strong GitHub portfolio with scripts, notes, and lab walkthroughs  
-
----
-
-## 📬 Connect with Me
-- 💼 [LinkedIn – Musonda Malangisha](https://www.linkedin.com/in/musonda-malangisha)
+📫 Let’s connect: 💼 [LinkedIn – Musonda Malangisha](https://www.linkedin.com/in/musonda-malangisha)
 
 Thanks for visiting — feel free to explore my repos and follow my journey! 🔐✨
