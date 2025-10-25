@@ -1,6 +1,6 @@
 # Hi, I'm Musonda 👋  
 
-🎓 Computer Engineering student | Python Developer | QA & Automation | AI Enthusiast | Cybersecurity Learner  
+🎓 Computer Engineering student | Python Developer | QA & Automation | Cybersecurity Learner  
 
 🚀 I build and test software that is **reliable, scalable, and secure**.  
 🔧 Experienced in **Python backend development, automation testing, SQL databases, and AI-driven tools**.  
@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 - **Languages:** Python, SQL, PHP, HTML, Bash  
 - **Frameworks/Tools:** PyTest, Pandas, Git/GitHub, Azure DevOps, Docker, AWS 
-- **Domains:** Backend Development, Test Automation, AI-driven workflows, Cybersecurity basics  
+- **Domains:** Backend Development, Test Automation, AI-driven workflows, Cybersecurity 
 
 📫 Let’s connect: 💼 [LinkedIn – Musonda Malangisha](https://www.linkedin.com/in/musonda-malangisha)
 
