@@ -8,7 +8,7 @@
 
 ### 🌟 What I Do
 - **Python Development:** Backend logic, automation scripts, API integration 
-- **AI & Automation:** Built tools that cut costs by replacing manual workflows  
+- **AI & Automation:(https://github.com/SondaMalang/AI_Category_Mapper)** Built tools that cut costs by replacing manual workflows  
 - **QA & Testing:** Regression, integration, unit testing (PyTest), CI/CD exposure  
 - **Cyber & Systems:** Basic web security, Linux environments, shell scripting  
 
