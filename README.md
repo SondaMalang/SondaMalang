@@ -1,6 +1,6 @@
 # Hi, I'm Musonda 👋  
 
-🎓 Computer Engineering student | Python Developer | QA & Automation | Cybersecurity Learner  
+🎓 Computer Engineer | Python Developer | QA Automation | Cybersecurity   
 
 🚀 I build and test software that is **reliable, scalable, and secure**.  
 🔧 Experienced in **Python backend development, automation testing, SQL databases, and AI-driven tools**.  
